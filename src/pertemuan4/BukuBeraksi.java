@@ -14,5 +14,6 @@ public class BukuBeraksi {
         System.out.println("Penerbit : "+Buku1.getPenerbit());
         System.out.println("Harga Buku : "+Buku1.getHarga());
         
+        Buku Buku3 = new Buku();
     }
 }
